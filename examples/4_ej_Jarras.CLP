@@ -92,4 +92,5 @@
                         (padre ?nodo)
                         (litros-en-cuatro 0)
                         (litros-en-tres (+ ?tres ?cuatro)) ) ) 
+        
 )  
